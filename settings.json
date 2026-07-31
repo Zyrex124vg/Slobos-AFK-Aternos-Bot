@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "356days.aternos.me",
+    "ip": "chorkie.aternos.host",
     "port": 48098,
     "version": "1.21.1",
     "try-creative": false
