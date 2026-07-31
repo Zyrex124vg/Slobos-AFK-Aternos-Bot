@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "356days.aternos.me",
+    "ip": "356daysAiida.aternos.me",
     "port": 48098,
-    "version": "1.21.1",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
